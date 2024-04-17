@@ -1,0 +1,18 @@
+{
+  "" : {
+    "dependencies" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Demo1/DerivedData/Demo1/Index.noindex/Build/Intermediates.noindex/Demo1.build/Debug-iphoneos/Demo1.build/Objects-normal/arm64/Demo1-master.d",
+    "diagnostics" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Demo1/DerivedData/Demo1/Index.noindex/Build/Intermediates.noindex/Demo1.build/Debug-iphoneos/Demo1.build/Objects-normal/arm64/Demo1-master.dia",
+    "emit-module-dependencies" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Demo1/DerivedData/Demo1/Index.noindex/Build/Intermediates.noindex/Demo1.build/Debug-iphoneos/Demo1.build/Objects-normal/arm64/Demo1-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Demo1/DerivedData/Demo1/Index.noindex/Build/Intermediates.noindex/Demo1.build/Debug-iphoneos/Demo1.build/Objects-normal/arm64/Demo1-master-emit-module.dia",
+    "swift-dependencies" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Demo1/DerivedData/Demo1/Index.noindex/Build/Intermediates.noindex/Demo1.build/Debug-iphoneos/Demo1.build/Objects-normal/arm64/Demo1-master.swiftdeps"
+  },
+  "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Demo1/Demo1/ContentView.swift" : {
+
+  },
+  "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Demo1/Demo1/Demo1App.swift" : {
+
+  },
+  "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Demo1/DerivedData/Demo1/Index.noindex/Build/Intermediates.noindex/Demo1.build/Debug-iphoneos/Demo1.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  }
+}

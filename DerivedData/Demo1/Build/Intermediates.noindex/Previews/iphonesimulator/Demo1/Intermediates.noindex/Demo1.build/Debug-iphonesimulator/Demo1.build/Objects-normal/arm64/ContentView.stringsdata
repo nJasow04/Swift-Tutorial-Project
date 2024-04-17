@@ -1,0 +1,12 @@
+{
+  "source": "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Demo1/Demo1/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hello, world!"
+      }
+    ]
+  },
+  "version": 1
+}
