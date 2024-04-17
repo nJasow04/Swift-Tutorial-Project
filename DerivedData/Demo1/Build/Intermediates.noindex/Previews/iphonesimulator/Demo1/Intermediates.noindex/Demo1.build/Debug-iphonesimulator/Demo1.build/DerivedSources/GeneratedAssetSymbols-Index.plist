@@ -5,7 +5,18 @@
 	<key>colors</key>
 	<array/>
 	<key>images</key>
-	<array/>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Demo1/Demo1/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameGrumman</string>
+			<key>relativePath</key>
+			<string>./Grumman.imageset</string>
+			<key>swiftSymbol</key>
+			<string>grumman</string>
+		</dict>
+	</array>
 	<key>symbols</key>
 	<array/>
 </dict>
