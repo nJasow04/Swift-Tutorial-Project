@@ -9,4 +9,7 @@
 /// The "Grumman" asset catalog image resource.
 static NSString * const ACImageNameGrumman AC_SWIFT_PRIVATE = @"Grumman";
 
+/// The "toronto" asset catalog image resource.
+static NSString * const ACImageNameToronto AC_SWIFT_PRIVATE = @"toronto";
+
 #undef AC_SWIFT_PRIVATE

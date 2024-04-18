@@ -16,6 +16,16 @@
 			<key>swiftSymbol</key>
 			<string>grumman</string>
 		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Demo1/Demo1/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameToronto</string>
+			<key>relativePath</key>
+			<string>./toronto.imageset</string>
+			<key>swiftSymbol</key>
+			<string>toronto</string>
+		</dict>
 	</array>
 	<key>symbols</key>
 	<array/>

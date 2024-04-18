@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Target 'Demo1' in project 'Demo1' (no dependencies)
+Target 'Demo1' in project 'Demo1' (no dependencies)
